@@ -1,0 +1,5 @@
+C:\Users\jobbo\source\repos\newproject01\Orixa\Orixa.API\obj\Debug\net8.0\Orixa.API.csproj.AssemblyReference.cache
+C:\Users\jobbo\source\repos\newproject01\Orixa\Orixa.API\obj\Debug\net8.0\Orixa.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jobbo\source\repos\newproject01\Orixa\Orixa.API\obj\Debug\net8.0\Orixa.API.AssemblyInfoInputs.cache
+C:\Users\jobbo\source\repos\newproject01\Orixa\Orixa.API\obj\Debug\net8.0\Orixa.API.AssemblyInfo.cs
+C:\Users\jobbo\source\repos\newproject01\Orixa\Orixa.API\obj\Debug\net8.0\Orixa.API.csproj.CoreCompileInputs.cache

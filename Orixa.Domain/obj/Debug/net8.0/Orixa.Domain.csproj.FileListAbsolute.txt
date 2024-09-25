@@ -1,0 +1,11 @@
+C:\Users\jobbo\source\repos\newproject01\Orixa\Orixa.Domain\bin\Debug\net8.0\Orixa.Domain.deps.json
+C:\Users\jobbo\source\repos\newproject01\Orixa\Orixa.Domain\bin\Debug\net8.0\Orixa.Domain.dll
+C:\Users\jobbo\source\repos\newproject01\Orixa\Orixa.Domain\bin\Debug\net8.0\Orixa.Domain.pdb
+C:\Users\jobbo\source\repos\newproject01\Orixa\Orixa.Domain\obj\Debug\net8.0\Orixa.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jobbo\source\repos\newproject01\Orixa\Orixa.Domain\obj\Debug\net8.0\Orixa.Domain.AssemblyInfoInputs.cache
+C:\Users\jobbo\source\repos\newproject01\Orixa\Orixa.Domain\obj\Debug\net8.0\Orixa.Domain.AssemblyInfo.cs
+C:\Users\jobbo\source\repos\newproject01\Orixa\Orixa.Domain\obj\Debug\net8.0\Orixa.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jobbo\source\repos\newproject01\Orixa\Orixa.Domain\obj\Debug\net8.0\Orixa.Domain.dll
+C:\Users\jobbo\source\repos\newproject01\Orixa\Orixa.Domain\obj\Debug\net8.0\refint\Orixa.Domain.dll
+C:\Users\jobbo\source\repos\newproject01\Orixa\Orixa.Domain\obj\Debug\net8.0\Orixa.Domain.pdb
+C:\Users\jobbo\source\repos\newproject01\Orixa\Orixa.Domain\obj\Debug\net8.0\ref\Orixa.Domain.dll
