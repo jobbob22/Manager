@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Orixa.API", "Orixa.API\Orixa.API.csproj", "{4F086D8A-919A-4899-AD24-BB12C6388ACE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orixa.Domain", "Orixa.Domain\Orixa.Domain.csproj", "{53C7FBAF-6C7F-4541-AE6F-591A54554EE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orixa.Infra", "Orixa.Infra\Orixa.Infra.csproj", "{77722620-2D95-415E-8ED5-87574B110B69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orixa.Services", "Orixa.Services\Orixa.Services.csproj", "{E18AAC3E-F09F-467B-AFE5-DA9A995EE97C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F086D8A-919A-4899-AD24-BB12C6388ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F086D8A-919A-4899-AD24-BB12C6388ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F086D8A-919A-4899-AD24-BB12C6388ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F086D8A-919A-4899-AD24-BB12C6388ACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53C7FBAF-6C7F-4541-AE6F-591A54554EE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53C7FBAF-6C7F-4541-AE6F-591A54554EE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53C7FBAF-6C7F-4541-AE6F-591A54554EE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53C7FBAF-6C7F-4541-AE6F-591A54554EE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77722620-2D95-415E-8ED5-87574B110B69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77722620-2D95-415E-8ED5-87574B110B69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77722620-2D95-415E-8ED5-87574B110B69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77722620-2D95-415E-8ED5-87574B110B69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E18AAC3E-F09F-467B-AFE5-DA9A995EE97C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E18AAC3E-F09F-467B-AFE5-DA9A995EE97C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E18AAC3E-F09F-467B-AFE5-DA9A995EE97C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E18AAC3E-F09F-467B-AFE5-DA9A995EE97C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E88ACB99-BE34-4740-91D5-FB1DF77CD5EC}
+	EndGlobalSection
+EndGlobal
